@@ -1,2 +1,2 @@
 # music-website
-I developed a protfolio website using Html and Css.
+I Developed a Protfolio Website Designed using HTML and CSS.
